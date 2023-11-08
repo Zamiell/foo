@@ -29,8 +29,8 @@
     "update": "isaacscript update"
   },
   "devDependencies": {
-    "@types/node": "^20.8.10",
-    "isaacscript": "^3.18.5",
+    "@types/node": "^20.9.0",
+    "isaacscript": "^3.19.0",
     "isaacscript-common-node": "^1.2.0",
     "isaacscript-lint": "^6.3.0",
     "isaacscript-tsconfig": "^5.0.0",
